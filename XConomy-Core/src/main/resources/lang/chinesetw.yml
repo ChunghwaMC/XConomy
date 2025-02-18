@@ -1,5 +1,5 @@
 translation_authors: "ChunghwaMC"
-prefix: '&6[XConomy]'
+prefix: '&6[XConomy] '
 balance: '&a你的餘額： %balance%'
 balance_other: '&a%player% 的餘額： %balance%'
 top_title: '&e========= TOP10 <第 %page% 頁> ========='
